@@ -1,20 +1,27 @@
-## Threads App Clone
+## Introduction
 Available live at https://threads-app-ten-rosy.vercel.app/
 
-## Table of Contents
-
-## Introduction
+A full stack Threads clone using Next.js with user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.
 
 ## Tech Stack
 • Next.js
+
 • MongoDB
+
 • Shadcn UI
+
 • TailwindCSS
+
 • Clerk
+
 • Webhooks
+
 • Serverless APIs
+
 • React Hook Form
+
 • Zod
+
 • TypeScript
 
 ## Features
