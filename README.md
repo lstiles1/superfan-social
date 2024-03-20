@@ -6,16 +6,16 @@ Available live at https://threads-app-ten-rosy.vercel.app/
 ## Introduction
 
 ## Tech Stack
-Next.js
-MongoDB
-Shadcn UI
-TailwindCSS
-Clerk
-Webhooks
-Serverless APIs
-React Hook Form
-Zod
-TypeScript
+• Next.js
+• MongoDB
+• Shadcn UI
+• TailwindCSS
+• Clerk
+• Webhooks
+• Serverless APIs
+• React Hook Form
+• Zod
+• TypeScript
 
 ## Features
 👉 Authentication: Authentication using Clerk for email, password, and social logins (Google and GitHub) with a comprehensive profile management system.
